@@ -38,3 +38,10 @@
   }
 ]
 
+{
+  "id": 999,
+  "sender": "Vasl Support",
+  "admin": true,
+  "text": "سلام",
+  "time": "2026-05-08T12:00:00Z"
+}
