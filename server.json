@@ -1,12 +1,14 @@
 {
-  "status":"online",
-  "download":"742",
-  "upload":"183",
-  "users":"56",
-  "storage":"2.47",
-  "latency":"41",
-  "traffic":"7.2TB",
-  "cpu":"23",
-  "ram":"61",
-  "updated":"live"
+  "name": "Vasl VIP",
+  "status": "online",
+  "server": "Germany-1",
+  "ip": "185.21.44.91",
+  "port": "443",
+  "protocol": "VLESS + Reality",
+  "download": 128.4,
+  "upload": 34.8,
+  "total": 200,
+  "used": 163.2,
+  "expire": "2026-12-30",
+  "lastUpdate": "23:58:12"
 }
