@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Franciszwa/Vasl/main/Vaslapk/VASL%20Luncher.apk
+https://github.com/Franciszwa/Vasl/raw/main/Vaslapk/VASL%20Luncher.apk
