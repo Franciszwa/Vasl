@@ -1,0 +1,7 @@
+
+User: 10
+
+Time: ۱۴۰۵/۲/۲۳, ۰:۵۳:۳۸
+
+UserAgent:
+Mozilla/5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.79 Mobile Safari/537.36
